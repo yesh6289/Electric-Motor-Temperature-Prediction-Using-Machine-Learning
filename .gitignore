@@ -1,0 +1,40 @@
+.venv
+
+# Python virtual environment
+agi-med-env/
+venv/
+.env/
+.env*/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+pmss_temperature_data.csv
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local vector database files (optional)
+# data/vectorstore/
+
+# Gemini_Generated_Image_m0bcfvm0bcfvm0bc.png
+
+# Output files
+# diagnostic_report.md
+
+# Environment variables
+.env.local
